@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BrewBliss/static/css/main.4865720c.css",
+    "main.js": "/BrewBliss/static/js/main.b813ad47.js",
+    "static/js/453.222ed0f2.chunk.js": "/BrewBliss/static/js/453.222ed0f2.chunk.js",
+    "static/media/Coffee.jpg": "/BrewBliss/static/media/Coffee.bd14ff271b43926ecf01.jpg",
+    "static/media/Filter-Coffee.jpg": "/BrewBliss/static/media/Filter-Coffee.cd79f962dbe073b11ff5.jpg",
+    "index.html": "/BrewBliss/index.html",
+    "main.4865720c.css.map": "/BrewBliss/static/css/main.4865720c.css.map",
+    "main.b813ad47.js.map": "/BrewBliss/static/js/main.b813ad47.js.map",
+    "453.222ed0f2.chunk.js.map": "/BrewBliss/static/js/453.222ed0f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4865720c.css",
+    "static/js/main.b813ad47.js"
+  ]
+}
